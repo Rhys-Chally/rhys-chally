@@ -1,5 +1,5 @@
-## Hi there 👋
-
+Im am learning Cyber security 
+lookig to learn linux and am always open to help
 <!--
 **Rhys-Chally/rhys-chally** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
